@@ -9,3 +9,7 @@ example:
 
  nand flash=128MB, CPU=SSD201, select fastboot mode
 ./Release_to_customer.sh -f nand -p ssd201 -m 128 -q fastboot
+
+
+==================================================
+==================================================
